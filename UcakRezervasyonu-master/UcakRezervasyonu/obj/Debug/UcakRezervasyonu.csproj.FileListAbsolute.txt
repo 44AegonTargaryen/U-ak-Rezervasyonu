@@ -1,0 +1,14 @@
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\bin\Debug\UcakRezervasyonu.exe.config
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\bin\Debug\UcakRezervasyonu.exe
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\bin\Debug\UcakRezervasyonu.pdb
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.csproj.AssemblyReference.cache
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.exe
+C:\Users\Tuna\Desktop\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.pdb
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\bin\Debug\UcakRezervasyonu.exe.config
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\bin\Debug\UcakRezervasyonu.exe
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\bin\Debug\UcakRezervasyonu.pdb
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.csproj.AssemblyReference.cache
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.exe
+C:\Users\merto\OneDrive\Masaüstü\UcakRezervasyonu-master\UcakRezervasyonu\obj\Debug\UcakRezervasyonu.pdb
